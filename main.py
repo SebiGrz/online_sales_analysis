@@ -10,3 +10,6 @@ pm.add_product(Product("Sarmale", 231, 7))
 
 pm.display_products()
 pm.total_inventory_value()
+
+pm.remove_product("Iepuri")
+pm.display_products()
