@@ -1,0 +1,1 @@
+# Las atasata rezolvare acestui task insa nu am avut conflicte pe el, deoarece am vazut ca trebuiesc rezolvate doar in caz ca apar, daca dumnevoastra totusi doriti sa avem un conflict rezolvat va rog sa-mi spuneti sa il pot reface 
